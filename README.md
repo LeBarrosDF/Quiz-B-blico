@@ -11,39 +11,28 @@ semelhante ao estilo de apps como Duolingo.
 
 **✨ Funcionalidades do MVP**
 
-Exibir pergunta aleatória do banco de dados
-
-Mostrar alternativas de múltipla escolha
-
-Indicar respostas corretas (em versão posterior)
-
-Botão Próxima Pergunta
-
-Integração total entre:
-
-Frontend (React Native)
-
-Backend (FastAPI - Python)
-
-Banco de dados MySQL
+- Exibir pergunta aleatória do banco de dados
+- Mostrar alternativas de múltipla escolha
+- Indicar respostas corretas (em versão posterior)
+- Botão Próxima Pergunta
+- Integração total entre:
+- Frontend (React Native)
+- Backend (FastAPI - Python)
+- Banco de dados MySQL
 
 **🎯 Objetivo Principal**
 
-Desenvolver um app educacional simples, bonito e acessível que permita:
-
-Estudar a Bíblia de maneira interativa
-
-Avançar por pontos e níveis
-
-Aprender com feedback imediato
-
-Registrar progresso (em versões futuras)
+- Desenvolver um app educacional simples, bonito e acessível que permita:
+ - Estudar a Bíblia de maneira interativa
+ - Avançar por pontos e níveis
+ - Aprender com feedback imediato
+ - Registrar progresso (em versões futuras)
 
 **🧱 Arquitetura do Projeto** </br>
-- 📦 Quiz App</br>
- -- ┣ 📂 backend (FastAPI)
- -- ┣ 📂 frontend (React Native)
- -- ┗ 📂 database (MySQL)
+- 📦 Quiz App </br>
+  -- ┣ 📂 backend (FastAPI) </br>
+  -- ┣ 📂 frontend (React Native) </br>
+  -- ┗ 📂 database (MySQL) </br>
 
 🔧 Tecnologias Utilizadas
 - Frontend
@@ -124,4 +113,6 @@ Registrar progresso (em versões futuras)
 
 **🙏 Agradecimentos**
 
-- Este projeto tem como propósito auxiliar pessoas que desejam estudar a Bíblia de maneira prática e moderna.
+- Gratidão a Deus pela sabedoria que tens me dado e me capacitado para desevolver este projeto, </br>
+que tem como propósito auxiliar pessoas que desejam estudar a Bíblia de maneira prática e moderna, </br>
+levando a palavra de Deus por meio de "Perguntas e Respostas" sobre a Bíblia Sagrada.
