@@ -1,12 +1,13 @@
-📘 A Bíblia em Perguntas e Respostas
+**📘 A Bíblia em Perguntas e Respostas**
 Aplicativo de Quiz Bíblico – React Native + FastAPI + MySQL
 📖 Sobre o Projeto
 
-A Bíblia em Perguntas e Respostas é um aplicativo mobile de aprendizado bíblico baseado no formato de quiz. O objetivo é proporcionar estudo e memorização da palavra de Deus de forma prática, interativa e gamificada, semelhante ao estilo de apps como Duolingo.
+A Bíblia em Perguntas e Respostas é um aplicativo mobile de aprendizado bíblico baseado no formato de quiz. 
+O objetivo é proporcionar estudo e memorização da palavra de Deus de forma prática, interativa e gamificada, semelhante ao estilo de apps como Duolingo.
 
 Este projeto está sendo desenvolvido inicialmente como um MVP com foco nas funcionalidades essenciais para o aprendizado por meio de perguntas aleatórias, alternativas e pontuação básica.
 
-✨ Funcionalidades do MVP
+**✨ Funcionalidades do MVP**
 
 Exibir pergunta aleatória do banco de dados
 
@@ -24,7 +25,7 @@ Backend (FastAPI - Python)
 
 Banco de dados MySQL
 
-🎯 Objetivo Principal
+**🎯 Objetivo Principal**
 
 Desenvolver um app educacional simples, bonito e acessível que permita:
 
@@ -36,7 +37,7 @@ Aprender com feedback imediato
 
 Registrar progresso (em versões futuras)
 
-🧱 Arquitetura do Projeto
+**🧱 Arquitetura do Projeto**
 📦 Quiz App
  ┣ 📂 backend (FastAPI)
  ┣ 📂 frontend (React Native)
@@ -65,7 +66,7 @@ Banco
 
 MySQL
 
-🚀 Como Executar o Projeto
+**🚀 Como Executar o Projeto**
 🔹 1. Clonar o Repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
@@ -82,7 +83,7 @@ O backend ficará disponível em:
 
 http://localhost:8000
 
-📱 Executando o Frontend (React Native)
+**📱 Executando o Frontend (React Native)**
 🔹 Instalar dependências
 npm install
 
@@ -137,10 +138,10 @@ A API entrega uma estrutura como:
 
 MIT License – sinta-se livre para estudar, modificar, melhorar e contribuir!
 
-❤️ Contribuição
+**❤️ Contribuição**
 
 Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
 
-🙏 Agradecimentos
+**🙏 Agradecimentos**
 
 Este projeto tem como propósito auxiliar pessoas que desejam estudar a Bíblia de maneira prática e moderna.
